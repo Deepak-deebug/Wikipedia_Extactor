@@ -14,7 +14,7 @@ A script (named **“wiki_extractor.py”**) that performs a Wikipedia search us
 * num_urls (integer argument for number of wikipedia pages to extract from)
 * output (output json-file name)
 #### Code Example  
-    python wiki_extractor.py --keyword=”Indian Historical Events” --num_urls=100 --output=”out.json” 
+    python wiki_extractor.py --keyword=”Indian Historical Events” --num_url=100 --output=”out.json” 
     
     
 ## Sources
