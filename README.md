@@ -1,5 +1,5 @@
 
-# Wikipedia_Extactor
+# Wikipedia_Extractor
 
 A script (named **“wiki_extractor.py”**) that performs a Wikipedia search using the provided keyword, and returns urls of “n” related Wikipedia pages. The script should also extract one paragraph from each such page and return the result as a json file
 
